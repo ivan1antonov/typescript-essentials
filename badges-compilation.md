@@ -14,9 +14,8 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 4. **Develop Typed Functions in TypeScript**: <https://learn.microsoft.com/api/achievements/share/en-us/ivan1antonov-8203/K5MY2E5B?sharingId=7898651A9C68AA6A>
 5. **Declare and Instantiate Classes in TypeScript**: <https://learn.microsoft.com/api/achievements/share/en-us/ivan1antonov-8203/J6PVVQAT?sharingId=7898651A9C68AA6A>
 6. **Generics in TypeScript**: <https://learn.microsoft.com/api/achievements/share/en-us/ivan1antonov-8203/AQNHBZT7?sharingId=7898651A9C68AA6A>
-7. **Work with External Libraries in TypeScript**: [Link](https://learn.microsoft.com/api/achievements/share/en-us/ivan1antonov-8203/4SV78P2K?sharingId=7898651A9C68AA6A)
-8. [**Organize Code with Namespaces in TypeScript**:](https://learn.microsoft.com/api/achievements/share/en-us/ivan1antonov-8203/ZPXWSWT2?sharingId=7898651A9C68AA6A)  
-   ![img](https://learn.microsoft.com/ru-ru/training/achievements/typescript/typescript-namespaces-organize-code.svg)
+7. [**Work with External Libraries in TypeScript**: ](https://learn.microsoft.com/api/achievements/share/en-us/ivan1antonov-8203/4SV78P2K?sharingId=7898651A9C68AA6A)  ![img](https://learn.microsoft.com/ru-ru/training/achievements/typescript/typescript-namespaces-organize-code.svg =100x100)
+8. [**Organize Code with Namespaces in TypeScript**:](https://learn.microsoft.com/api/achievements/share/en-us/ivan1antonov-8203/ZPXWSWT2?sharingId=7898651A9C68AA6A)  ![img](https://learn.microsoft.com/ru-ru/training/achievements/typescript/typescript-namespaces-organize-code.svg =100x100)
 
 ## Reflections
 
